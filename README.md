@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Frist Project
@@ -29,8 +27,8 @@ Any suggestions on how I can improve are welcome!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-code-project-PkC_tTj5vY)
-- Live Site URL: [Add live site URL here](https://qr-code-project-gamma.vercel.app/)
+- Solution URL: [Link to Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-project-PkC_tTj5vY)
+- Live Site URL: [Link to Website](https://qr-code-project-gamma.vercel.app/)
 
 ## My process
 
@@ -54,7 +52,7 @@ I would like to perfect it, I don't know why but in the comparision part of webs
 
 ### Useful resources
 
-- [Example resource 1](https://chatgpt.com/) - Chatgpt really explained me the usage of Positions and Display. Also on it's recommendation I did a small project to understand these properties. 
+- [ChatGPT](https://chatgpt.com/) - Chatgpt really explained me the usage of Positions and Display. Also on it's recommendation I did a small project to understand these properties. 
 
 ## Author
 
